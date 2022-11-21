@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Zakat Payment</string>
+    <string name="get_weight">Weight of Gold in Gram (g)</string>
+    <string name="get_type">Type of Gold</string>
+    <string name="gold">gold</string>
+    <string name="wear">wear</string>
+    <string name="get_current">Current Gold Value Per Gram</string>
+    <string name="calculate">Calculate</string>
+    <string name="tv_about_us">About Us</string>
+
+    <string name="t_information">INFORMATION</string>
+    <string name="t_student_name">Student Name:</string>
+    <string name="t_student_id">Student ID:</string>
+    <string name="t_faculty">Faculty:</string>
+    <string name="t_group">Group:</string>
+    <string name="t_program_code">Program Code:</string>
+    <string name="t_github">Github URL:</string>
+
+    <string name="information"> The purpose of zakat, one of Islam five pillars, is to cleanse the wealth of those who pay it as well as to redistribute it between the rich and the needy. Estimating zakat payment for gold savings is what is meant by zakat. Users of this application have the option to select between wear and keep gold. The amount of zakat will be computed using the total value of the gold, the amount of zakat that is payable, and uruf. Users of this application have also benefited from the application ability to calculate zakat amounts automatically, which makes it simpler to pay zakat without being confused.</string>
+    <string name="student_name">SYAHIDAH BINTI SALLIM</string>
+    <string name="student_id">2020495722</string>
+    <string name="faculty">CS240-FACULTY OF COMPUTER AND MATHEMATICS SCIENCES</string>
+    <string name="group">D1CS2405A</string>
+    <string name="program_code">ICT602 - MOBILE TECHNOLOGY AND DEVELOPMENT</string>
+    <string name="github">
+        <a href="https://github.com/Syahidahsallim/ZakatPyment/upload">https://github.com/syazwaniothman/Zakat_Payment.git</a></string>
+    <string name="copyright">Copyright &#169; 2022 SF</string>
+    <string name="student_name1" />
+    <string name="student_id1" />
+
+</resources>
